@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aman Suryawanshi</title>
+    <description>Senior Software Engineer @ socialpanga.com</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 06 Apr 2021 15:40:10 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Apr 2021 15:40:10 +0000</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+
+    
+      <item>
+        <title>Welcome to devlopr-jekyll !</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;or&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;b&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;sum&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;num1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;num2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;num1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;num2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;result&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Tue, 06 Apr 2021 14:35:23 +0000</pubDate>
+        <link>/blog/welcome-to-devlopr-jekyll/</link>
+        <guid isPermaLink="true">/blog/welcome-to-devlopr-jekyll/</guid>
+      </item>
+    
+
+    
+      
+        
+      
+    
+      
+    
+      
+        
+          <item>
+            <title></title>
+            <description>&lt;h3&gt;  {{ page.title }} &lt;/h3&gt;
+
+&lt;div id=&quot;categories&quot;&gt;
+{% for tag in site.tags %}
+  &lt;div class=&quot;category-box&quot; &gt;
+    {% capture tag_name %}{{ tag | first }}{% endcapture %}
+    &lt;div id=&quot;#{{ tag_name | slugize }}&quot;&gt;&lt;/div&gt;
+    &lt;h4 class=&quot;tag-head&quot;&gt;&lt;a href=&quot;{{ site.baseurl }}/blog/categories/{{ tag_name }}&quot;&gt;{{ tag_name }}&lt;/a&gt;&lt;/h4&gt;
+    &lt;a name=&quot;{{ tag_name | slugize }}&quot;&gt;&lt;/a&gt;
+     {% for post in site.tags[tag_name] %}
+    &lt;article class=&quot;center&quot;&gt;
+      &lt;h6 &gt;&lt;a href=&quot;{{ site.baseurl }}{{ post.url }}&quot;&gt;{{post.title}}&lt;/a&gt;&lt;/h6&gt;
+    &lt;/article&gt;
+
+    {% endfor %}
+    
+  &lt;/div&gt;
+{% endfor %}
+&lt;/div&gt;
+
+
+</description>
+            <link>/blog/tags/</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title></title>
+            <description>&lt;h3&gt;  {{ page.title }} &lt;/h3&gt;
+
+&lt;div id=&quot;categories&quot;&gt;
+{% for category in site.categories %}
+  &lt;div class=&quot;category-box&quot; &gt;
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    &lt;div id=&quot;#{{ category_name | slugize }}&quot;&gt;&lt;/div&gt;
+    &lt;h4 class=&quot;category-head&quot;&gt;&lt;a href=&quot;{{ site.baseurl }}/blog/categories/{{ category_name }}&quot;&gt;{{ category_name }}&lt;/a&gt;&lt;/h4&gt;
+    &lt;a name=&quot;{{ category_name | slugize }}&quot;&gt;&lt;/a&gt;
+     {% for post in site.categories[category_name] %}
+    &lt;article class=&quot;center&quot;&gt;
+      &lt;h6 &gt;&lt;a href=&quot;{{ site.baseurl }}{{ post.url }}&quot;&gt;{{post.title}}&lt;/a&gt;&lt;/h6&gt;
+    &lt;/article&gt;
+
+
+    {% endfor %}
+
+  &lt;/div&gt;
+{% endfor %}
+&lt;/div&gt;
+
+
+</description>
+            <link>/blog/categories/</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+      
+        
+          <item>
+            <title>Guides</title>
+            <description>&lt;h5&gt; Posts by Category : {{ page.title }} &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+{% for post in site.categories.guides %}
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/div&gt;</description>
+            <link>/blog/categories/guides/</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        
+          <item>
+            <title>Get Started</title>
+            <description>## Getting Started - How to use “devlopr-jekyll” theme
+
+## What's Jekyll ?
+
+If you aren’t familiar with Jekyll yet, you should know that it is a static site generator. It will transform your plain text into static websites and blogs. No more databases, slow loading websites, risk of being hacked…just your content. And not only that, with Jekyll you get free hosting with GitHub Pages! If you are a beginner we recommend you start with [Jekyll’s Docs](https://jekyllrb.com/docs/installation/). Now, if you know how to use Jekyll, let’s move on to using this theme in Jekyll:
+
+### Steps to create your blog using devlopr-jekyll and Host using Github Pages :
+
+&gt;  **Step 1.**  Fork the repo - [click here](https://github.com/sujaykundu777/devlopr-jekyll/fork)
+
+![Devlopr Jekyll Repo](/assets/img/posts/fork1.png){:class=&quot;img-fluid&quot;}
+
+&gt; **Step 2.** Use **your-github-username.github.io** as the new repo  ( Replace your-github-username with yours). Remember if you use the name other than your-github-username.github.io , your blog will be built using gh-pages branch.
+
+![Devlopr Jekyll Repo](/assets/img/posts/fork2.png){:class=&quot;img-fluid&quot;}
+
+![Devlopr Jekyll Repo](/assets/img/posts/fork3.png){:class=&quot;img-fluid&quot;}
+
+&gt; **Step 3.** Clone the new repo locally to make changes :
+
+![Devlopr Jekyll Repo](/assets/img/posts/fork31.png){:class=&quot;img-fluid&quot;}
+
+![Devlopr Jekyll Repo](/assets/img/posts/fork32.png){:class=&quot;img-fluid&quot;}
+
+![Devlopr Jekyll Repo](/assets/img/posts/fork33.png){:class=&quot;img-fluid&quot;}
+
+```bash
+ $ git clone https://github.com/yourusername/yourusername.github.io
+ $ cd yourusername.github.io
+ $ code .
+```
+
+&gt; **Step 4.** Open the files using VSCode and edit _config.yml and edit with your details:
+
+- _config.yml file - replace with your own details
+- _posts - Add your blog posts here
+- _includes - You can replace the contents of the files with your data. (contains widgets)
+- _assets/img - Add all your images here
+
+![Devlopr Jekyll Repo](/assets/img/posts/fork34.png){:class=&quot;img-fluid&quot;}
+
+&gt; **Step 5** - Install the development requirements:
+
+### Set up local development environment
+
+1. [Git](https://git-scm.com/)
+2. [Ruby](https://www.ruby-lang.org/) and [Bundler](https://bundler.io/)
+3. [VSCode](https://code.visualstudio.com/download)
+
+We need ruby and bundler to build our site locally. After installation check if its working:
+
+For ruby :
+
+```bash
+$ ruby -v
+ruby 2.5.1p57 (2018-03-29 revision 63029) [x86_64-linux-gnu]
+```
+For bundler :
+
+```bash
+$ gem install bundler
+$ bundler -v
+Bundler version 2.1.4
+```
+Add jekyll :
+
+```bash
+$ bundle add jekyll
+```
+ This command will add the Jekyll gem to our Gemfile and install it to the ./vendor/bundle/ folder.
+
+You can check the jekyll version
+
+```
+$ bundle exec jekyll -v
+jekyll 4.0.0
+```
+
+&gt; **Step 6.** Install the gem dependencies by running the following command
+
+```bash
+$ bundle update
+$ bundle install
+```
+
+&gt; **Step 7.** Serve the site locally by running the following command below:
+
+```bash
+$ bundle exec jekyll serve --watch
+```
+or you can also serve using :
+
+```bash
+$ jekyll serve
+```
+
+Visit [http://localhost:4000](http://localhost:4000) for development server
+
+![Devlopr Jekyll Repo](/assets/img/posts/fork4.png){:class=&quot;img-fluid&quot;}
+
+![Devlopr Jekyll Repo](/assets/img/posts/fork41.png){:class=&quot;img-fluid&quot;}
+
+### Adding Content
+
+Start populating your blog by adding your .md files in _posts. devlopr-jekyll already has a few examples.
+
+#### YAML Post Example:
+
+```yml
+---
+layout: post
+title: Sample Post
+author: Sujay Kundu
+date: '2019-05-21 14:35:23 +0530'
+category:
+        - jekyll
+summary: This is the summary for the sample post
+thumbnail: sample.png
+---
+
+Hi ! This is sample post.
+
+```
+
+#### YAML Page Example:
+
+```yml
+---
+layout: page
+title: Sample Page
+menus: header
+permalink: /sample-page/
+---
+
+Hi ! This is sample page.
+```
+
+#### Editing stylesheet
+
+You’ll only work with a single file to edit/add theme style: assets/css/main.scss.
+
+### Deploy your Changes
+
+Once happy with your blog changes. Push your changes to master branch.
+
+&gt; **Step 8.** Push Your Local Changes
+
+```bash
+ $ git add .
+ $ git commit -m &quot;my new blog using devlopr-jekyll&quot;
+ $ git push origin master
+```
+
+Visit your Github Repo settings ! Enable master branch as Github Pages Branch :
+
+![Devlopr Jekyll Repo](/assets/img/posts/fork6.png){:class=&quot;img-fluid&quot;}
+
+&gt; **Step 9.** Deploy your Blog :
+
+![Devlopr Jekyll Repo](/assets/img/posts/fork7.png){:class=&quot;img-fluid&quot;}
+
+&gt; Congrats ! On your new shining Blog !
+
+You can visit the blog using [http://your-github-username.github.io](http://your-github-username.github.io).
+
+</description>
+            <link>/get-started/</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>Jekyll</title>
+            <description>&lt;h5&gt; Posts by Tag : {{ page.title }} &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+{% for post in site.tags.jekyll %}
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/div&gt;</description>
+            <link>/blog/tags/jekyll</link>
+          </item>
+        
+      
+    
+      
+        
+          <item>
+            <title>Jekyll</title>
+            <description>&lt;h5&gt; Posts by Category : {{ page.title }} &lt;/h5&gt;
+
+&lt;div class=&quot;card&quot;&gt;
+{% for post in site.categories.jekyll %}
+ &lt;li class=&quot;category-posts&quot;&gt;&lt;span&gt;{{ post.date | date_to_string }}&lt;/span&gt; &amp;nbsp; &lt;a href=&quot;{{ post.url }}&quot;&gt;{{ post.title }}&lt;/a&gt;&lt;/li&gt;
+{% endfor %}
+&lt;/div&gt;</description>
+            <link>/blog/categories/jekyll/</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        
+          <item>
+            <title>Styleguide</title>
+            <description>&lt;h1 class=&quot;text-center&quot;&gt; devlopr jekyll - Styleguide &lt;/h1&gt;
+
+&lt;hr /&gt;
+
+ &lt;img src=&quot;/assets/img/styleguide.png&quot; class=&quot;img-fluid&quot;&gt;
+
+&lt;p&gt; Lets try the different text styles  &lt;b&gt; Bold &lt;/b&gt; , &lt;strong&gt; Strong &lt;/strong&gt;, &lt;em&gt; Emphasis &lt;/em&gt;, &lt;i&gt; Italic &lt;/i&gt; &lt;/p&gt;
+
+
+&lt;p&gt; Now, lets try different heading styles : &lt;/p&gt;
+
+&lt;h1&gt; Hello in h1 ! &lt;/h1&gt;
+&lt;h2&gt; Hello in h2 ! &lt;/h2&gt;
+&lt;h3&gt; Hello in h3 ! &lt;/h3&gt;
+&lt;h4&gt; Hello in h4 ! &lt;/h4&gt;
+&lt;h5&gt; Hello in h5 ! &lt;/h5&gt;
+&lt;h6&gt; Hello in h6 ! &lt;/h6&gt;
+
+&lt;hr /&gt;
+&lt;p&gt; Unordered List &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt; List Item 1 &lt;/li&gt;
+&lt;li&gt; List Item 2 &lt;/li&gt;
+&lt;li&gt; List Item 3 &lt;/li&gt;
+&lt;li&gt; List Item 4 &lt;/li&gt;
+&lt;li&gt; List Item 5 &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; Ordered List &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt; List Item 1 &lt;/li&gt;
+&lt;li&gt; List Item 2 &lt;/li&gt;
+&lt;li&gt; List Item 3 &lt;/li&gt;
+&lt;li&gt; List Item 4 &lt;/li&gt;
+&lt;li&gt; List Item 5 &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This is a Block Quote,  It can Expand Multiple Lines &lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;You can use the mark tag to &lt;mark&gt;highlight&lt;/mark&gt; text. &lt;/p&gt;
+
+&lt;p&gt;&lt;del&gt; This line of text is meant to be deleted text &lt;/del&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;This line of text will render as underlined&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;This line of text is meant to be treated as fine print.&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This line rendered as bold text.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This line rendered as italicized text.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;abbr title=&quot;attribute&quot;&gt;attr&lt;/abbr&gt;&lt;/p&gt;
+&lt;p&gt;&lt;abbr title=&quot;HyperText Markup Language&quot; class=&quot;initialism&quot;&gt;HTML&lt;/abbr&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;div class=&quot;responsive-table&quot;&gt;
+&lt;table&gt;
+      &lt;thead&gt;
+        &lt;tr&gt;
+          &lt;th scope=&quot;col&quot;&gt;#&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+          &lt;th scope=&quot;col&quot;&gt;Heading&lt;/th&gt;
+        &lt;/tr&gt;
+      &lt;/thead&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;th scope=&quot;row&quot;&gt;1&lt;/th&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;th scope=&quot;row&quot;&gt;2&lt;/th&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;th scope=&quot;row&quot;&gt;3&lt;/th&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+          &lt;td&gt;Cell&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+    &lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt;YouTube Responsive Embed&lt;/h3&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nuwjUZCSB2Y?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt;Vimeo Responsive Embed&lt;/h3&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/212114694?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;ted-responsive-embed&quot;&gt;TED Responsive Embed&lt;/h3&gt;
+
+&lt;iframe src=&quot;https://embed.ted.com/talks/ted_halstead_a_climate_solution_where_all_sides_can_win&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;twitch-responsive-embed&quot;&gt;Twitch Responsive Embed&lt;/h3&gt;
+
+&lt;iframe src=&quot;https://player.twitch.tv/?autoplay=false&amp;amp;video=v248755437&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot; scrolling=&quot;no&quot; height=&quot;378&quot; width=&quot;620&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;soundcloud-embed&quot;&gt;SoundCloud Embed&lt;/h3&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/29738591&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;codepen-embed&quot;&gt;CodePen Embed&lt;/h3&gt;
+
+&lt;p data-height=&quot;265&quot; data-theme-id=&quot;light&quot; data-slug-hash=&quot;YWvpRo&quot; data-default-tab=&quot;css,result&quot; data-user=&quot;kharrop&quot; data-embed-version=&quot;2&quot; data-pen-title=&quot;Referral Form&quot; class=&quot;codepen&quot;&gt;&lt;/p&gt;
+&lt;script async=&quot;&quot; src=&quot;https://production-assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;syntax-highlighting&quot;&gt;Syntax Highlighting&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;s1&quot;&gt;'use strict'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;markdown&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'markdown'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;markdown&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Editor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;preview&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;update&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;preview&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;innerHTML&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;markdown&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;toHTML&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;editor&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;update&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;You can add inline code just like this, E.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;.code { color: #fff; }&lt;/code&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;pre&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#f4f4f4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;max-width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;overflow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;auto&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;github-gist-embed&quot;&gt;GitHub gist Embed&lt;/h3&gt;
+
+&lt;script src=&quot;https://gist.github.com/ahmadajmi/dbb4f713317721668bcbc39420562afc.js&quot;&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;input-style&quot;&gt;Input Style&lt;/h3&gt;
+
+&lt;p&gt;&lt;input type=&quot;text&quot; placeholder=&quot;I'm an input field!&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt; Twitter Embed &lt;/h3&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;I just published “Deploying a blog using Jekyll and Github Pages with SSL certificate for Free” &lt;a href=&quot;https://t.co/B3T3IQVU93&quot;&gt;https://t.co/B3T3IQVU93&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sujay Kundu (@SujayKundu777) &lt;a href=&quot;https://twitter.com/SujayKundu777/status/1012601950469160962?ref_src=twsrc%5Etfw&quot;&gt;June 29, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+
+&lt;h3&gt; Instagram Embed &lt;/h3&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/BhFTg6uhNRi/&quot; data-instgrm-version=&quot;9&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;&lt;a href=&quot;https://www.instagram.com/p/BhFTg6uhNRi/&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&quot; target=&quot;_blank&quot;&gt;A post shared by Ahmad Ajmi (@ahmadajme)&lt;/a&gt; on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2018-04-02T21:18:58+00:00&quot;&gt;Apr 2, 2018 at 2:18pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt; &lt;script async defer src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;
+
+</description>
+            <link>/styleguide/</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+
+  </channel>
+</rss>
