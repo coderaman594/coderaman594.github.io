@@ -19,6 +19,8 @@ urls:
       url: /shop
     - text: Contact
       url: /contact
+    - text: Portfolio
+      url: /portfolio
     # - text: Styleguide
     #   url: /styleguide
     # - text: Get Started
