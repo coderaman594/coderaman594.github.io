@@ -1,13 +1,12 @@
 ---
-title: Netlify CMS created this Article
+title: 'Article #1: About Netlify CMS'
 layout: post
 author: coderaman594
-date: '2021-04-06 20:00:00'
+date: '2021-10-22 20:00:00'
 thumbnail: "/assets/img/posts/hello.jpg"
 category: Basic
-summary: Demo Content using Netlify CMS
-keywords: using netlify cms with devlopr-jekyll, devlopr jekyll netlify cms, how to
-  use netlify cms
+summary: Post Content created using Netlify CMS
+keywords: coderaman594,netlify
 permalink: "/blog/using-netlify-cms/"
 ---
 
