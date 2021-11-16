@@ -784,7 +784,7 @@
                     <div class="mh-blog-item dark-bg wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s">
                         <img src="assets/images/b-3.png" alt="" class="img-fluid">
                         <div class="blog-inner">
-                            <h2><a href="blog-single.html">A life without the daily traffic jams</a></h2>
+                            <h2><a href="#">A life without the daily traffic jams</a></h2>
                             <div class="mh-blog-post-info">
                                 <ul>
                                     <li><strong>Post On</strong><a href="#">24.10.21</a></li>
@@ -793,7 +793,7 @@
                             </div>
                             <p>It is a long established fact that a reader will be distracted by the readable content of
                                 a page when looking at its layout</p>
-                            <a href="blog-single.html">Read More</a>
+                            <a href="#">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -801,7 +801,7 @@
                     <div class="mh-blog-item dark-bg wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s">
                         <img src="assets/images/b-2.png" alt="" class="img-fluid">
                         <div class="blog-inner">
-                            <h2><a href="blog-single.html">Proportion are what’s really needed</a></h2>
+                            <h2><a href="#">Proportion are what’s really needed</a></h2>
                             <div class="mh-blog-post-info">
                                 <ul>
                                     <li><strong>Post On</strong><a href="#">24.10.21</a></li>
@@ -810,7 +810,7 @@
                             </div>
                             <p>It is a long established fact that a reader will be distracted by the readable content of
                                 a page when looking at its layout</p>
-                            <a href="blog-single.html">Read More</a>
+                            <a href="#">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -818,7 +818,7 @@
                     <div class="mh-blog-item dark-bg wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.7s">
                         <img src="assets/images/b-1.png" alt="" class="img-fluid">
                         <div class="blog-inner">
-                            <h2><a href="blog-single.html">Mounts of paper work to remember the way</a></h2>
+                            <h2><a href="#">Mounts of paper work to remember the way</a></h2>
                             <div class="mh-blog-post-info">
                                 <ul>
                                     <li><strong>Post On</strong><a href="#">24.10.21</a></li>
@@ -827,7 +827,7 @@
                             </div>
                             <p>It is a long established fact that a reader will be distracted by the readable content of
                                 a page when looking at its layout</p>
-                            <a href="blog-single.html">Read More</a>
+                            <a href="#">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -1032,6 +1032,33 @@
                 </div>
             </div>
         </div>
+        <!-- Messenger Chat plugin Code -->
+        <div id="fb-root"></div>
+
+        <!-- Your Chat plugin code -->
+        <div id="fb-customer-chat" class="fb-customerchat">
+        </div>
+
+        <script>
+            var chatbox = document.getElementById('fb-customer-chat');
+            chatbox.setAttribute("page_id", "104031885417938");
+            chatbox.setAttribute("attribution", "biz_inbox");
+
+            window.fbAsyncInit = function () {
+                FB.init({
+                    xfbml: true,
+                    version: 'v12.0'
+                });
+            };
+
+            (function (d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+        </script>
     </footer>
 
     <!--
