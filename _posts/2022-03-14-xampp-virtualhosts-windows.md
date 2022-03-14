@@ -1,9 +1,16 @@
 ---
 title: How to create, setup and enable the local virtual host in XAMPP Server on Windows
   10
+layout: post
+summary: How to create, setup and enable the local virtual host in XAMPP Server on
+  Windows 10
+author: coderaman594
+date: '2022-03-14 19:26:19'
+category: Hosting
+thumbnail: "/assets/img/posts/xampp-virtualhost-windows.jpeg"
+keywords: Xammp,Windows,Hosting,PHP
+permalink: "/blog/xampp-virtualhost-windows/"
 ---
-
-![https://medium.com/@coderaman594/how-to-create-setup-and-enable-the-local-virtual-host-in-xampp-server-on-windows-10-60d377a94b6c](http://)
 
 In This Article, we will learn How to Create, Setup and Enable a Virtual host in XAMPP On windows by following the below simple steps:
 
@@ -20,8 +27,7 @@ DocumentRoot F:\coding\htdocs\coderaman594
 ServerName localhost.coderaman594.com
 </VirtualHost>
 
-![https://miro.medium.com/max/590/1*FKPFTUxrS1G3Z4Irf1L_JA.png](http://)
-
+![](https://miro.medium.com/max/590/1*FKPFTUxrS1G3Z4Irf1L_JA.png)
 3. Navigate to etc directory-
 
 > cd C:\Windows\System32\drivers\etc\
