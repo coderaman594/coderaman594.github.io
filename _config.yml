@@ -105,8 +105,7 @@ telegram_username: coderaman594
 wakatime_username: coderaman594
 
 # mailchimp embedded form url (newsletter):
-#mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
-
+mailchimp_form_url: https://formspree.io/f/xpzblpgp
 # formspree (contact form)
 formspree_email: suryawanshi.aman1994@gmail.com
 
