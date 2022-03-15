@@ -1,6 +1,6 @@
 ---
 title: Aman Suryawanshi
-name: Aman Surawanshi
+name: Aman Suryawanshi
 username: coderaman594
 bio: Hi I a Aman, Senior Software Engineer.
 site: https://coderaman594.github.io/
