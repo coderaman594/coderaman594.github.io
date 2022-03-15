@@ -107,7 +107,7 @@ wakatime_username: coderaman594
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://formspree.io/f/xpzblpgp
 # formspree (contact form)
-formspree_email: suryawanshi.aman1994@gmail.com
+formspree_email: https://formspree.io/f/mrgjlpva
 
 # syntax highlighter
 markdown: kramdown
