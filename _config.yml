@@ -1,7 +1,7 @@
 title: Aman Suryawanshi
 subtitle: Senior Software Engineer
 description: >- # this means to ignore newlines until "baseurl:"
-    Senior Software Engineer @ socialpanga.com
+    Senior Frontend Engineer @ TCS
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -14,7 +14,7 @@ urls:
     - text: Blogs
       url: /blog
     #- text: Gallery
-     # url: /gallery
+    # url: /gallery
     #- text: Shop
     #  url: /shop
     - text: Contact
@@ -30,28 +30,34 @@ urls:
 
 author_logo: aman.jpg
 author: Aman Suryawanshi
-author_bio: Senior Software Engineer @ socialpanga.com
+author_bio: Senior Frontend Engineer @ TCS
 author_email: "suryawanshi.aman1994@gmail.com"
 author_location: India
 author_website_url: "https://coderaman594.github.io/"
-typewrite-text: Senior Software Engineer @ socialpanga.com
+typewrite-text: Senior Frontend Engineer @ TCS
 
 # Experiences
 author_work_experiences:
-    - company_name: Socialpanga
+    - company_name: TCS
+      company_logo: tcs.jpeg
+      company_url: https://www.tcs.com
+      designation: Senior Frontend Engineer
+      description: Worked on various Products
+      visibility: true
+    - company_name: SocialPanga
       company_logo: socialpanga.png
       company_url: https://socialpanga.com
       designation: Senior Software Engineer
       description: Worked on various Products
       visibility: true
-    - company_name: V2WEB
+    - company_name: V2Web
       company_logo: v2web.png
       company_url: https://v2web.in/
       designation: Software Engineer
       description: Worked on various Products
       visibility: true
     - company_name: Tech Global Solutions
-      company_logo: google.png
+      company_logo: work.png
       company_url: https://techglobalsolution.com/
       designation: Software Engineer
       description: Worked on various Azure Products
