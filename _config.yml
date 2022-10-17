@@ -1,7 +1,7 @@
 title: Aman Suryawanshi
 subtitle: Senior Software Engineer
 description: >- # this means to ignore newlines until "baseurl:"
-    Senior Frontend Engineer @ TCS
+    Senior Software Engineer @ TCS
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -30,18 +30,18 @@ urls:
 
 author_logo: aman.jpg
 author: Aman Suryawanshi
-author_bio: Senior Frontend Engineer @ TCS
+author_bio: Senior Software Engineer @ TCS
 author_email: "suryawanshi.aman1994@gmail.com"
 author_location: India
 author_website_url: "https://coderaman594.github.io/"
-typewrite-text: Senior Frontend Engineer @ TCS
+typewrite-text: Senior Software Engineer @ TCS
 
 # Experiences
 author_work_experiences:
     - company_name: TCS
       company_logo: tcs.jpeg
       company_url: https://www.tcs.com
-      designation: Senior Frontend Engineer
+      designation: Senior Software Engineer
       description: Worked on various Products
       visibility: true
     - company_name: SocialPanga
@@ -74,19 +74,34 @@ author_education_details:
 
 # Projects
 author_project_details:
+    - project_thumbnail: ing.png
+      project_title: ING Bank
+      project_description: Working as Full Stack Engineer
+      project_url: https://www.ing.com/Home.htm
+      visibility: true
+    - project_thumbnail: spl.png
+      project_title: Shriram Properties
+      project_description: Worked as Backend Developer, CMS Development & CRM Integrations
+      project_url: https://www.shriramproperties.com/
+      visibility: true
+    - project_thumbnail: sparsh.svg
+      project_title: Sparsh Hospitals
+      project_description: Worked as Backend Developer, CMS Development & CRM Integrations
+      project_url: https://www.sparshhospital.com/
+      visibility: true
     - project_thumbnail: manipal.svg
       project_title: Manipal Hospitals
-      project_description: Manipal Hospitals - Best Multispeciality Hospitals in India
+      project_description: Backend Developer, CMS Development and integrations
       project_url: https://www.manipalhospitals.com/
       visibility: true
     - project_thumbnail: 3iii.png
       project_title: International Indian Icon
-      project_description: A Platform built for International Indian Icon - Dancing|Singing|Instruments.
+      project_description: Backend Developer, API Developer
       project_url: https://www.internationalindianicon.com/
       visibility: true
     - project_thumbnail: libazon.png
       project_title: Shop with Libazon
-      project_description: A Platform built for E-commerce platform in Lebanon.
+      project_description: Backend Developer
       project_url: https://libazon.com/
       visibility: true
 
